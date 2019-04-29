@@ -1,0 +1,12 @@
+target 'AMapTestDemo' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+    platform :ios, '9.0'
+
+    pod 'AMapLocation'
+    pod 'AMapSearch'
+    pod 'AMap3DMap'
+    pod 'AMapNavi'
+    pod 'YYKit'  #一组功能丰富的iOS组件
+end

@@ -1,0 +1,27 @@
+//
+//  AMapTestDemo.pch
+//  AMapTestDemo
+//
+//  Created by anfa on 2019/4/29.
+//  Copyright © 2019 anfa. All rights reserved.
+//
+
+#ifndef AMapTestDemo_pch
+#define AMapTestDemo_pch
+
+#import <YYKit.h>
+#import "NSString+Category.h"
+#import "ACActionSheet.h"
+#import "ZJCustomButton.h"
+
+/*
+ 枚举类型文件
+ */
+#import "EnumConstant.h"
+
+/*
+ 工具类宏定义文件
+ */
+#import "ToolConfig.h"
+
+#endif /* AMapTestDemo_pch */
